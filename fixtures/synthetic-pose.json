@@ -1,0 +1,3062 @@
+{
+  "coordinateSystem": "normalized-image-2d",
+  "model": {
+    "name": "synthetic-stick-figure",
+    "version": "1",
+    "trained": false
+  },
+  "topology": {
+    "version": "synthetic-8-v1",
+    "names": [
+      "head",
+      "leftShoulder",
+      "rightShoulder",
+      "leftElbow",
+      "rightElbow",
+      "leftWrist",
+      "rightWrist",
+      "hip"
+    ],
+    "motionPoints": [
+      "leftWrist",
+      "rightWrist"
+    ],
+    "edges": [
+      [
+        "head",
+        "leftShoulder"
+      ],
+      [
+        "head",
+        "rightShoulder"
+      ],
+      [
+        "leftShoulder",
+        "leftElbow"
+      ],
+      [
+        "leftElbow",
+        "leftWrist"
+      ],
+      [
+        "rightShoulder",
+        "rightElbow"
+      ],
+      [
+        "rightElbow",
+        "rightWrist"
+      ],
+      [
+        "leftShoulder",
+        "hip"
+      ],
+      [
+        "rightShoulder",
+        "hip"
+      ]
+    ]
+  },
+  "transforms": {
+    "mirrored": false,
+    "offsetMs": 0
+  },
+  "frames": [
+    {
+      "timeMs": 0,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 100,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 200,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 300,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 400,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 500,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 600,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 700,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 800,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 900,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 1000,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 1100,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 1200,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 1300,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.6149723144528714,
+          0.3849723144528714
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 1400,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.5891837005630487,
+          0.3591837005630486
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 1500,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.5707583666827061,
+          0.3407583666827061
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 1600,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.5611902174684998,
+          0.33119021746849975
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 1700,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.5612550273383865,
+          0.3312550273383864
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 1800,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.5709475415834393,
+          0.34094754158343926
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 1900,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.5894819024135405,
+          0.35948190241354044
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 2000,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.6153553653936613,
+          0.3853553653936613
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 2100,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.6464701402161289,
+          0.41647014021612894
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 2200,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.6803034771006706,
+          0.4503034771006706
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 2300,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.7141122084145983,
+          0.48411220841459823
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 2400,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.745155161516292,
+          0.5151551615162919
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 2500,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.7709154098471265,
+          0.5409154098471264
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 2600,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.7893043424116122,
+          0.5593043424116121
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 2700,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.7988310059294763,
+          0.5688310059294762
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 2800,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.7987229895948058,
+          0.5687229895948058
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 2900,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.7889890512464768,
+          0.5589890512464768
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 3000,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.7704184072927566,
+          0.5404184072927565
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 3100,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 3200,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 3300,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 3400,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 3500,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 3600,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 3700,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 3800,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 3900,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 4000,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 4100,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 4200,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 4300,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 4400,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 4500,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 4600,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.7454098007147668,
+          0.5154098007147668
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 4700,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.7711131944063199,
+          0.5411131944063198
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 4800,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.7894292361893345,
+          0.5594292361893345
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 4900,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.7988728826833845,
+          0.5688728826833844
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 5000,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.7986784540063632,
+          0.5686784540063632
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 5100,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.7888617142094339,
+          0.5588617142094339
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 5200,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.7702185931460825,
+          0.5402185931460826
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 5300,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.7442606534046463,
+          0.5142606534046462
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 5400,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.7130925345704241,
+          0.4830925345704241
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 5500,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.6792413114941647,
+          0.44924131149416463
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 5600,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.6454516020001922,
+          0.41545160200019216
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 5700,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.6144630364630728,
+          0.3844630364630728
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 5800,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.588788131760906,
+          0.358788131760906
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 5900,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.5705085793269581,
+          0.340508579326958
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 6000,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.5611064640276415,
+          0.33110646402764143
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 6100,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.5613440984440623,
+          0.3313440984440623
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 6200,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.5712022154539219,
+          0.3412022154539218
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 6300,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.5898815303873989,
+          0.3598815303873989
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 6400,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.6158675460992323,
+          0.38586754609923224
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 6500,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 6600,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 6700,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 6800,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 6900,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 7000,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 7100,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 7200,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 7300,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 7400,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 7500,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 7600,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 7700,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 7800,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 7900,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    },
+    {
+      "timeMs": 8000,
+      "points": {
+        "head": [
+          0.5,
+          0.19
+        ],
+        "leftShoulder": [
+          0.38,
+          0.34
+        ],
+        "rightShoulder": [
+          0.62,
+          0.34
+        ],
+        "leftElbow": [
+          0.3,
+          0.52
+        ],
+        "rightElbow": [
+          0.7,
+          0.52
+        ],
+        "leftWrist": [
+          0.34,
+          0.65
+        ],
+        "rightWrist": [
+          0.68,
+          0.45
+        ],
+        "hip": [
+          0.5,
+          0.8
+        ]
+      }
+    }
+  ]
+}

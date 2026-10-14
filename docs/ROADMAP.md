@@ -1,0 +1,7 @@
+# Roadmap (future work, not current capabilities)
+
+1. Researcher feedback with synthetic / consented pilot studies: annotation conventions, dominance templates, keyboard ergonomics, tier authoring, duration changes, zoom, local multi-video synchronization, frame-step semantics and full edit history.
+2. Extend EAF via graph-aware read-only preservation first, then Symbolic_Association with inherited timing; preserve parent/type/CV scopes, PREVIOUS_ANNOTATION chains, missing anchors and constraints. Add full schema + dependency validation and desktop ELAN reopen tests before enabling graph edits.
+3. Local MediaPipe extraction worker with pinned model weights, versioned topology, exact frame timestamps, explicit transforms and reset-on-seek. Validate occlusion and nonmanual limitations with TSL researchers. Add adapters for signer-specific research models only when their training / evaluation provenance is known.
+4. Versioned provider interface for review-only gloss / boundary candidates, signer-disjoint corpus evaluation, provenance audit export, inter-annotator agreement and temporal relation queries. No recognition accuracy target until there is a consented benchmark.
+5. Project ZIP / JSON restore and migrations, conflict detection, authentication and research access roles before any collaboration or hosted deployment. No public or cloud video service is currently planned or enabled.
